@@ -1,6 +1,3 @@
-gitskills
-<<<<<<< HEAD
-creating a new branch is quick & simple
-=======
-creating a new branch is quick AND simple
->>>>>>> featurel
+git leraning
+creating a new branch is quick and simple
+git switch dev change the way of you like
